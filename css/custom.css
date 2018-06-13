@@ -1,0 +1,27 @@
+.hero {
+  height: 400px; /* 高さを変更するよ */
+  background: linear-gradient(45deg,#ffc0cb , #fffacd	, #7fffd4);
+}
+
+hero p{
+  font-color: #ff1493
+}
+
+.gallery-image:hover > a > img{
+  border-radius: 50%;
+  transform: scale(0.7);
+}
+
+
+
+footer{
+  height: 60px;
+  background-color: #ffc0cb;
+  line-height: 60px;
+}
+
+footer p{
+  color: #ff1493;
+  text-align:center;
+
+}
